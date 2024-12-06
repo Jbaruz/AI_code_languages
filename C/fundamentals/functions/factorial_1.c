@@ -1,4 +1,4 @@
-// Factorian in C
+// Factorial in C
 // Author: JBA
 // Date: 03-12-2024
 
