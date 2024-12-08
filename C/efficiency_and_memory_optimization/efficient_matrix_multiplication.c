@@ -102,3 +102,6 @@ int main() {
     // Returning 0 indicates that the program ended successfully.
     return 0;
 }
+
+// Dynamic memory allocation with malloc ensures felxibility for matrix size.
+// Optimized nested loops avoid unnecessary overhead.
