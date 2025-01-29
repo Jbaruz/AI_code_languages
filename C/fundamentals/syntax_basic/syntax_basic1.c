@@ -12,3 +12,6 @@ int main() {
     printf("The Sum %d + %d is equal to %d\n", a, b, sum); // Print the sum
     return 0; // Return 0 to indicate successful termination
 }
+
+// gcc syntax_basic1.c -o syntax_basic1
+// ./syntax_basic1
